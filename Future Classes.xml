@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-24T15:19:37.557Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="LR9ac_gwNM4OrkHBxfWv" version="12.1.4" type="github" pages="1">
+<mxfile modified="2019-10-24T15:19:48.186Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="2ScusLMIoZj2_XDkUary" version="12.1.4" type="github" pages="1">
   <diagram id="5e96fbbb-71a6-2fbb-836b-647055984099" name="Page-1">
     <mxGraphModel dx="1024" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
         <mxCell id="5OvndIz-joKkfhmD4AUC-94" value="IFT 401&lt;br&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;Prerequisite(s): IFT 301; IFT 302; IFT 358; TMC 470 &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1300" y="237.5" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="5OvndIz-joKkfhmD4AUC-95" value="IFT 402&lt;br&gt;&lt;span id=&quot;local-environment&quot;&gt;Prereq(s)&lt;br&gt;IFT 401&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="5OvndIz-joKkfhmD4AUC-95" value="IFT 402&lt;br&gt;&lt;span id=&quot;local-environment&quot;&gt;Prereq(s)&lt;br&gt;IFT 401&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1460" y="237.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5OvndIz-joKkfhmD4AUC-96" value="GeneralStudies: SB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
