@@ -1,6 +1,6 @@
-<mxfile modified="2019-10-24T15:19:48.186Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="2ScusLMIoZj2_XDkUary" version="12.1.4" type="github" pages="1">
+<mxfile modified="2019-10-24T15:51:53.100Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="AsNR3dKrtoMSuFE71Vko" version="12.1.4" type="github" pages="1">
   <diagram id="5e96fbbb-71a6-2fbb-836b-647055984099" name="Page-1">
-    <mxGraphModel dx="1024" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -200,7 +200,7 @@
         <mxCell id="5OvndIz-joKkfhmD4AUC-98" value="IFT 458 &lt;br&gt;Primary Focus&lt;br&gt;Prereq(s)&lt;br&gt;IFT 301;IFT 383" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1300" y="327.5" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="5OvndIz-joKkfhmD4AUC-99" value="&lt;div&gt;IFT 443&lt;/div&gt;&lt;div&gt;Primary Focus&lt;br&gt;&lt;/div&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;Prerequisite(s): &lt;br&gt;IFT 333; HSE 230, PSY 230/STP 226&lt;br&gt;IFT 433; IFT 458&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="5OvndIz-joKkfhmD4AUC-99" value="&lt;div&gt;IFT 483&lt;br&gt;&lt;/div&gt;&lt;div&gt;Secondary Focus&lt;br&gt;&lt;/div&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;Prerequisite(s): &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;local-environment&quot;&gt;IFT 302 &lt;/span&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1460" y="318" width="120" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="5OvndIz-joKkfhmD4AUC-100" value="IFT 481&lt;br&gt;Secondary Focus&lt;br&gt;&lt;span id=&quot;local-environment&quot;&gt;IFT 302&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -220,10 +220,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TmBy8HYwZV_244fK9Icy-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;" parent="1" source="fmm7MVx9P8wh50th9seo-82" target="5OvndIz-joKkfhmD4AUC-100" edge="1">
+        <mxCell id="TmBy8HYwZV_244fK9Icy-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;" parent="1" source="fmm7MVx9P8wh50th9seo-82" target="5OvndIz-joKkfhmD4AUC-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="298"/>
+              <mxPoint x="1120" y="313"/>
               <mxPoint x="1120" y="454"/>
             </Array>
           </mxGeometry>
@@ -231,8 +231,13 @@
         <mxCell id="yHD0Ecl_YHMkQaZ8PzyD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;" parent="1" source="5OvndIz-joKkfhmD4AUC-94" target="5OvndIz-joKkfhmD4AUC-95" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="yHD0Ecl_YHMkQaZ8PzyD-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=1;" parent="1" source="5OvndIz-joKkfhmD4AUC-98" target="5OvndIz-joKkfhmD4AUC-99" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="PY_bAvSfIRj6RZJToUTU-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;" edge="1" parent="1" source="fmm7MVx9P8wh50th9seo-82" target="5OvndIz-joKkfhmD4AUC-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="312"/>
+              <mxPoint x="1440" y="368"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
