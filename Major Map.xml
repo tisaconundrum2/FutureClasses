@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-04T03:59:27.588Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="yGxrEwWl85jgueftNrAv" version="12.1.9" type="github" pages="1">
+<mxfile modified="2019-11-04T04:15:31.994Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="_SRqIeHwlE8W3DxGs2-k" version="12.1.9" type="github" pages="1">
   <diagram id="9e87cddf-15b4-90f9-289c-60b84dbeb609" name="Page-1">
     <mxGraphModel dx="1646" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="160" y="740" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="47" value="&lt;div&gt;&amp;nbsp;PSY 304 &lt;br&gt;&lt;/div&gt;&lt;div&gt;GeneralStudies: L&lt;/div&gt;Level: Upper Division" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="160" y="820" width="120" height="80" as="geometry"/>
+          <mxGeometry x="160" y="820" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="49" value="IFT 301: Introduction to Interactive Media" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="320" y="740" width="120" height="60" as="geometry"/>
