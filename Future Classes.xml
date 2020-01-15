@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-13T13:17:28.041Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="L2Fxv-VGbIw7OdtKsB3M" version="12.5.1" type="github">
+<mxfile modified="2020-01-15T05:12:09.456Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="j1hweeiazmmR8CHRuxvk" version="12.5.3" type="github">
   <diagram id="5e96fbbb-71a6-2fbb-836b-647055984099" name="Page-1">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -191,10 +191,10 @@
         <mxCell id="5OvndIz-joKkfhmD4AUC-95" value="&lt;b&gt;IFT 402&lt;/b&gt;&lt;br&gt;&lt;span id=&quot;local-environment&quot;&gt;Prereq(s)&lt;br&gt;IFT 401&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1460" y="237.5" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="5OvndIz-joKkfhmD4AUC-96" value="GeneralStudies: SB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="563" width="120" height="60" as="geometry"/>
+        <mxCell id="5OvndIz-joKkfhmD4AUC-96" value="&lt;b&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;ECN 211&lt;br&gt;									&lt;/span&gt;&lt;/span&gt;Macroeconomic Principles&lt;/span&gt;&lt;/b&gt;&lt;br&gt;GeneralStudies: SB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="563" width="120" height="77" as="geometry"/>
         </mxCell>
-        <mxCell id="5OvndIz-joKkfhmD4AUC-97" value="&lt;b&gt;REL 330 &lt;br&gt;											Native American Worldviews&lt;/b&gt;&lt;br&gt;GeneralStudies: SB/HU&lt;br&gt;Level: Upper Divsion " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="5OvndIz-joKkfhmD4AUC-97" value="&lt;b&gt;REL 330 &lt;br&gt;           Native American Worldviews&lt;/b&gt;&lt;br&gt;GeneralStudies: SB/HU&lt;br&gt;Level: Upper Divsion " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1460" y="439" width="120" height="105" as="geometry"/>
         </mxCell>
         <mxCell id="5OvndIz-joKkfhmD4AUC-98" value="IFT 458 &lt;br&gt;Primary Focus&lt;br&gt;Prereq(s)&lt;br&gt;IFT 301;IFT 383" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
