@@ -1,6 +1,6 @@
-<mxfile modified="2020-03-18T04:33:31.415Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="4MgrkRTPORQV_Mprpypi" version="12.8.6" type="github">
+<mxfile modified="2020-05-04T09:15:33.525Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Sd4eeyGmuZaIswu-EYuk" version="13.0.6" type="github">
   <diagram id="5e96fbbb-71a6-2fbb-836b-647055984099" name="Page-1">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
         <mxCell id="5OvndIz-joKkfhmD4AUC-95" value="&lt;b&gt;IFT 402&lt;/b&gt;&lt;br&gt;&lt;span id=&quot;local-environment&quot;&gt;Prereq(s)&lt;br&gt;IFT 401&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1460" y="237.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5OvndIz-joKkfhmD4AUC-96" value="&lt;b&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;ECN 211&lt;br&gt;         &lt;/span&gt;&lt;/span&gt;Macroeconomic Principles&lt;/span&gt;&lt;/b&gt;&lt;br&gt;GeneralStudies: SB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="5OvndIz-joKkfhmD4AUC-96" value="&lt;b&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;ECN 211&lt;br&gt;         &lt;/span&gt;&lt;/span&gt;Macroeconomic Principles&lt;/span&gt;&lt;/b&gt;&lt;br&gt;GeneralStudies: SB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1460" y="563" width="120" height="77" as="geometry" />
         </mxCell>
         <mxCell id="5OvndIz-joKkfhmD4AUC-97" value="&lt;b&gt;REL 330 &lt;br&gt;           Native American Worldviews&lt;/b&gt;&lt;br&gt;GeneralStudies: HU&lt;br&gt;Level: Upper Divsion " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -200,7 +200,7 @@
         <mxCell id="5OvndIz-joKkfhmD4AUC-98" value="IFT 458 &lt;br&gt;Primary Focus&lt;br&gt;Prereq(s)&lt;br&gt;IFT 301;IFT 383" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1300" y="327.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5OvndIz-joKkfhmD4AUC-99" value="&lt;div&gt;&lt;b&gt;IFT 483&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Secondary Focus&lt;br&gt;&lt;/div&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;Prerequisite(s): &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;local-environment&quot;&gt;IFT 302 &lt;/span&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="5OvndIz-joKkfhmD4AUC-99" value="&lt;div&gt;&lt;b&gt;IFT 483&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Secondary Focus&lt;br&gt;&lt;/div&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;Prerequisite(s): &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;local-environment&quot;&gt;IFT 302 &lt;/span&gt;&lt;span id=&quot;local-environment&quot;&gt;&lt;span&gt;&lt;span id=&quot;For&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1460" y="318" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5OvndIz-joKkfhmD4AUC-100" value="IFT 481&lt;br&gt;Secondary Focus&lt;br&gt;&lt;span id=&quot;local-environment&quot;&gt;IFT 302&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
