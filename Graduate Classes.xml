@@ -1,6 +1,6 @@
-<mxfile modified="2021-06-13T20:12:48.877Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="QpTf4b193pTeDivVfbSN" version="14.7.7" type="github">
+<mxfile modified="2021-08-05T06:10:27.551Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="wPulVvsyLZUja3ZBmaI4" version="14.8.5" type="github">
   <diagram id="5e96fbbb-71a6-2fbb-836b-647055984099" name="Page-1">
-    <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,32 +16,32 @@
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-75" value="Spring 2023" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=1;spacingTop=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="192" width="120" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-82" value="&lt;div&gt;CSE 565 [CORE]&lt;br&gt;&lt;/div&gt;&lt;div&gt;Software Verification and Validation, and Testing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-82" value="&lt;div&gt;CSE 565 [CORE]&lt;br&gt;&lt;/div&gt;&lt;div&gt;Software Verification and Validation, and Testing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-83" value="&lt;div&gt;CSE 566 [CORE]&lt;br&gt;&lt;/div&gt;&lt;div&gt;Software Project, Process and Quality Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-83" value="&lt;div&gt;CSE 566 [CORE]&lt;br&gt;&lt;/div&gt;&lt;div&gt;Software Project, Process and Quality Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-94" value="&lt;div&gt;CSE 591 [CONCEN]&lt;br&gt;&lt;/div&gt;&lt;div&gt;Software Eng Principles...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-94" value="&lt;div&gt;CSE 591 [CONCEN]&lt;br&gt;&lt;/div&gt;&lt;div&gt;Seminar: Software Principles&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-90" value="&lt;div&gt;CSE 593 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Applied Project&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-90" value="&lt;div&gt;CSE 593 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Applied Project&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-91" value="Required CSE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-91" value="FSE 501&lt;br&gt;Technology Entrepreneurship " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-95" value="Required CSE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-95" value="CSE 598&lt;br&gt;Web Usability: Principles and Techniques " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-96" value="500+ Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-96" value="CSE 543 [CORE]&lt;br&gt;&amp;nbsp;Info Assurance &amp;amp; Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-97" value="500+ Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-98" value="500+ Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-99" value="500+ Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="512" width="120" height="60" as="geometry" />
