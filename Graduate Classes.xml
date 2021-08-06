@@ -1,9 +1,15 @@
-<mxfile modified="2021-08-05T06:10:27.551Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="wPulVvsyLZUja3ZBmaI4" version="14.8.5" type="github">
+<mxfile modified="2021-08-06T02:08:27.500Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="9KM_kWCI8KBwIOAmuBnO" version="14.8.5" type="github">
   <diagram id="5e96fbbb-71a6-2fbb-836b-647055984099" name="Page-1">
-    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dotP7P2G0LanKBHCxfTR-2" value="Fall 2022" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=1;spacingTop=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="192" width="120" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="dotP7P2G0LanKBHCxfTR-3" value="Spring 2023" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=1;spacingTop=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="192" width="120" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-69" value="Fall 2021" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=1;spacingTop=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="192" width="120" height="700" as="geometry" />
         </mxCell>
@@ -23,28 +29,28 @@
           <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-94" value="&lt;div&gt;CSE 591 [CONCEN]&lt;br&gt;&lt;/div&gt;&lt;div&gt;Seminar: Software Principles&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-90" value="&lt;div&gt;CSE 593 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Applied Project&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-91" value="FSE 501&lt;br&gt;Technology Entrepreneurship " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-91" value="&lt;div&gt;500+ Course&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-95" value="CSE 598&lt;br&gt;Web Usability: Principles and Techniques " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-96" value="CSE 543 [CORE]&lt;br&gt;&amp;nbsp;Info Assurance &amp;amp; Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-97" value="500+ Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="640" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-98" value="500+ Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="440" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ww8ZUlyREMdz3AZ_9HmX-99" value="500+ Course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="240" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
